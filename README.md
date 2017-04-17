@@ -1,4 +1,4 @@
 # Web-Crawler
 
-Share my exprience about using Jupyter notebook to crawl data from the Internet.
+Share my exprience about using Python to crawl data from the Internet.
 
